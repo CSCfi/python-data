@@ -5,6 +5,12 @@ date:   2016-10-10 10:08:06 +0300
 categories: jekyll update
 ---
 
+This is an attempt to see how usable the Pouta Blueprints is for students
+without prior exposure. If you encounter problems or want to give feedback
+about the user experience of either the login process or the content of the
+Notebook don't hesitate to contact _jyry.suvilehto_ at the TLD _csc.fi_ . Even
+negative feedback is welcome!
+
 To access the notebook navigate to [Pouta Blueprints](https://pb.csc.fi/) and
 log in using Haka authentication.
 
