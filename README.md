@@ -16,3 +16,7 @@ automate this) to a pared down version and copy the version to
 assets/notebooks under gh-pages branch, link to it on the course site and
 publish changes. 
 
+
+## Data sets
+
+* [Davis self-reported heights/weights](https://vincentarelbundock.github.io/Rdatasets/doc/car/Davis.html)
