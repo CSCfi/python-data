@@ -16,3 +16,4 @@ cd ../..
 wget https://csc-it-center-for-science.github.io/python-data/notebooks/demo/estimate.py
 wget https://csc-it-center-for-science.github.io/python-data/notebooks/demo/hml_laskudata.ipynb
 wget https://csc-it-center-for-science.github.io/python-data/notebooks/demo/creating_a_classifier.ipynb
+wget https://csc-it-center-for-science.github.io/python-data/notebooks/demo/Regression.ipynb
