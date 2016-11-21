@@ -1,7 +1,6 @@
-#!/bin/sh
+#!/bin/bash
 
-# get data
-
+cd /home/jovyan/work
 # make directories
 mkdir -p data/hml
 
